@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+@font-face {
+    font-family: 'MyCustomFont'; /* puedes poner aquí el nombre que quieras */
+    src: url('assets/BobaCups.otf') format('opentype'); /* el camino hasta tu archivo de fuente, y su formato */
+  }
+  
+body {
+    background: url('assets/fondo-degradado-borroso-color-rosa.jpg') no-repeat center center fixed; 
+    
+ 
+  }
+
+html, body { height: 100%; 
+  width: 100%;
+}
+
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
